@@ -6,6 +6,6 @@ import (
 
 // Testing func
 func Testing() string {
-	fmt.Println("delete release")
+	fmt.Println("delete release again")
 	return "astomiw asto azza"
 }
