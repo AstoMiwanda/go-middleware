@@ -20,5 +20,5 @@
 
 # Dependency .file (remove the comment below to include it)
 *.env
-go.mod
-go.sum
+# go.mod
+# go.sum
