@@ -1,4 +1,4 @@
-package main
+package middleware
 
 import (
 	"bytes"
@@ -47,10 +47,6 @@ var statusHTTPResp int
 //
 // 	return *claims, ""
 // }
-
-func main() {
-	log.Print("asto azza")
-}
 
 // GetToken function for auth jwt token when client hit API
 var GetToken = func(w http.ResponseWriter, r *http.Request) {
