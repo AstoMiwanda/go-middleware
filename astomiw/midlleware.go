@@ -5,6 +5,7 @@ import (
 )
 
 // Testing func
-func Testing() {
+func Testing() string {
 	fmt.Println("middleware package working")
+	return "astomiw asto azza"
 }
