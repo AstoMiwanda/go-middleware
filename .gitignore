@@ -13,3 +13,12 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+.idea
+.idea/
+.DS_Store
+.DS_Store/
+
+# Dependency .file (remove the comment below to include it)
+*.env
+go.mod
+go.sum
