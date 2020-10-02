@@ -6,6 +6,6 @@ import (
 
 // Testing func
 func Testing() string {
-	fmt.Println("middleware package working but not up to date >:((")
+	fmt.Println("delete release")
 	return "astomiw asto azza"
 }
